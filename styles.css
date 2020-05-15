@@ -1,0 +1,126 @@
+body{
+width: 100%;
+padding: 0;
+}
+.header{
+	background-color: white;
+	margin: 0;
+	height: 40px;
+}
+.header h1{
+	margin-left: 35%;
+	font-size: 26px;
+}
+.body{
+	background-color: lightgray;
+}
+.body .photo1{
+	margin-left: 32.8%;
+	width: 500px;
+	height: 400px;
+	padding: 30px;
+}
+.body .photo1 .header-photo1{
+	display: flex;
+	font-size: 10px;
+	width: 100%;
+	height: 35px;
+	background-color: white;
+}
+.body .photo1 .header-photo1 #span1{
+	float: right;
+	width: 90%;
+	padding: 6px;
+	font-size: 13px;
+}
+.body .photo1 .header-photo1 #span2{
+	float: left;
+	width: 8%;
+	padding: 6px;
+	font-size: 10px;
+	color: gray;	
+	margin-left: 80px;
+	margin-top: 5px;
+}
+.photo1 .body-photo1 img{
+	width: 100%;
+	height: auto;
+}
+.photo1 .footer-photo1{
+	background-color: white;
+}
+.photo1 .footer-photo1 span{
+	margin: 5px;
+}
+.body .photo2{
+	margin-left: 32.8%;
+	width: 500px;
+	height: 400px;
+	display: inline-block;
+	padding: 30px;
+}
+.body .photo2 .header-photo2{
+	display: flex;
+	font-size: 10px;
+	width: 100%;
+	height: 35px;
+	background-color: white;
+}
+.body .photo2 .header-photo2 #span1{
+	float: right;
+	width: 90%;
+	padding: 6px;
+	font-size: 13px;
+}
+.body .photo2 .header-photo2 #span2{
+	float: left;
+	width: 8%;
+	padding: 6px;
+	font-size: 10px;
+	color: gray;	
+	margin-left: 80px;
+	margin-top: 5px;
+}
+.photo2 .body-photo2 img{
+	width: 100%;
+	height: 300px;
+}
+.photo2 .footer-photo2{
+	background-color: white;
+}
+.body .photo3{
+	margin-left: 32.8%;
+	width: 500px;
+	height: 400px;
+	display: inline-block;
+	padding: 30px;
+}
+.body .photo3 .header-photo3{
+	display: flex;
+	font-size: 10px;
+	width: 100%;
+	height: 30px;
+	background-color: white;
+}
+.body .photo3 .header-photo3 #span1{
+	float: right;
+	width: 90%;
+	padding: 6px;
+	font-size: 13px;
+}
+.body .photo3 .header-photo3 #span2{
+	float: left;
+	width: 8%;
+	padding: 6px;
+	font-size: 10px;
+	color: gray;	
+	margin-left: 80px;
+	margin-top: 5px;
+}
+.photo3 .body-photo3 img{
+	width: 100%;
+	height: 300px;
+}
+.photo3 .footer-photo3{
+	background-color: white;
+}
